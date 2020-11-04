@@ -8,7 +8,7 @@
 
 # Result
 
-|                          | Validation (20%)    |
+| Metric                   | Validation (20%)    |
 |--------------------------|---------------------|
 | logloss                  | 0.15620794892311096 |
 | balanced_sparse_accuracy | 0.01923076994717121 |
